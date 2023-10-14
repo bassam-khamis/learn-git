@@ -6,3 +6,4 @@ git rebase --continue
 5th line mod
 6th line
 6th line mod
+add new feature
